@@ -1,2 +1,2 @@
 # simplewalletconnect
-walletconnect with web3React
+walletconnect with @solana/web3.js
